@@ -1,0 +1,24 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "Callback, Promise, Async",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "promise": "node src/promise/index.js",
+    "async": "node src/async/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian96/asynchronism-js.git"
+  },
+  "author": "Sebastian Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastian96/asynchronism-js/issues"
+  },
+  "homepage": "https://github.com/sebastian96/asynchronism-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
